@@ -1,9 +1,9 @@
 # 文件说明
-  CircleProgressView： 不支持渐变色设置，纯色圆环进度条
-  GradientCircleProgress： 支持渐变色设置的圆环进度条 （OC + Swift 两个版本）
-  LineProgress: 虚线型进度条
-  LoadingView: 基于 CircleProgressView 实现的 loading View
-  QSMStyleDownloadView: 基于 CircleProgressView 实现的 下载进度条
+  - CircleProgressView： 不支持渐变色设置，纯色圆环进度条
+  - GradientCircleProgress： 支持渐变色设置的圆环进度条 （OC + Swift 两个版本）
+  - LineProgress: 虚线型进度条
+  - LoadingView: 基于 CircleProgressView 实现的 loading View
+  - QSMStyleDownloadView: 基于 CircleProgressView 实现的 下载进度条
 # GradientCircleProgressView 可设置属性以及方法简述
 ## 属性
   - shouldWithDashPattern 可设置是否是虚线
