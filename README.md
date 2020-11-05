@@ -1,3 +1,4 @@
+
 # 文件说明
   - CircleProgressView： 不支持渐变色设置，纯色圆环进度条
   - GradientCircleProgress： 支持渐变色设置的圆环进度条 （OC + Swift 两个版本）
@@ -30,3 +31,7 @@
   ```
   - (void)setBottomLayerHandle:(void(^)(CAShapeLayer *bottomLayer))handle;
   ```
+# 图片预览
+![图1](https://github.com/xiweinian/CircleProgress/blob/main/CircleProgress-Master/1.png)
+![图2](https://github.com/xiweinian/CircleProgress/blob/main/CircleProgress-Master/2.png)
+![图3](https://github.com/xiweinian/CircleProgress/blob/main/CircleProgress-Master/3.png)
