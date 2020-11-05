@@ -16,11 +16,11 @@
   - showBottomProgress 可设置是否显示背景圆环
 ## 方法
 
-  // 设置进度条渐变色 layer 的相关属性
-  - (void)setProgressGradientLayerHandle:(void(^)(CAGradientLayer *gradientLayer))handle
+  - 设置进度条渐变色 layer 的相关属性
+  \- (void)setProgressGradientLayerHandle:(void(^)(CAGradientLayer *gradientLayer))handle
   
-  // 设置进度条进度条 maskLayer 的相关属性（线宽，虚线，进度等）
+  \- 设置进度条进度条 maskLayer 的相关属性（线宽，虚线，进度等）
   - (void)setProgressLayerHandle:(void(^)(CAShapeLayer *progressLayer))handle
   
-  // 设置底部圆环相关属性
-  - (void)setBottomLayerHandle:(void(^)(CAShapeLayer *bottomLayer))handle;
+  - 设置底部圆环相关属性
+  \- (void)setBottomLayerHandle:(void(^)(CAShapeLayer *bottomLayer))handle;
