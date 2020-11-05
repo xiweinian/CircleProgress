@@ -32,6 +32,4 @@
   - (void)setBottomLayerHandle:(void(^)(CAShapeLayer *bottomLayer))handle;
   ```
 # 图片预览
-<img width="375" height="667" src="https://github.com/xiweinian/CircleProgress/blob/main/CircleProgress-Master/1.png"/>
-<img width="375" height="667" src="https://github.com/xiweinian/CircleProgress/blob/main/CircleProgress-Master/2.png"/>
-<img width="375" height="667" src="https://github.com/xiweinian/CircleProgress/blob/main/CircleProgress-Master/3.png"/>
+<img width="375" height="667" src="https://github.com/xiweinian/CircleProgress/blob/main/CircleProgress-Master/1.png"/><img width="375" height="667" src="https://github.com/xiweinian/CircleProgress/blob/main/CircleProgress-Master/2.png"/><img width="375" height="667" src="https://github.com/xiweinian/CircleProgress/blob/main/CircleProgress-Master/3.png"/>
