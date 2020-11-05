@@ -5,7 +5,7 @@
   - LoadingView: 基于 CircleProgressView 实现的 loading View
   - QSMStyleDownloadView: 基于 CircleProgressView 实现的 下载进度条
 # GradientCircleProgressView 可设置属性以及方法简述
-## 属性
+### 属性
   - shouldWithDashPattern 可设置是否是虚线
   - startAngle 可设置起始角度
   - isClockwise 可设置进度条方向
@@ -14,7 +14,7 @@
   - maxTintColor 可设置背景圆环颜色
   - lineCap 可设置进度条的闭合样式
   - showBottomProgress 可设置是否显示背景圆环
-## 方法
+### 方法
 
   - 设置进度条渐变色 layer 的相关属性
   ```
